@@ -1,0 +1,39 @@
+{
+  "meetups": [
+    {
+      "title": "df",
+      "image": "https://i.picsum.photos/id/437/200/300.jpg?hmac=qjAKcFjQXvVBX_di7_9jMlPlgfQZUK2AV1IQ6W1eIIw",
+      "address": "dsf",
+      "description": "sdf",
+      "id": 1
+    },
+    {
+      "title": "df",
+      "image": "https://i.picsum.photos/id/437/200/300.jpg?hmac=qjAKcFjQXvVBX_di7_9jMlPlgfQZUK2AV1IQ6W1eIIw",
+      "address": "dsf",
+      "description": "sdf",
+      "id": 2
+    },
+    {
+      "title": "this is title ",
+      "image": "https://i.picsum.photos/id/437/200/300.jpg?hmac=qjAKcFjQXvVBX_di7_9jMlPlgfQZUK2AV1IQ6W1eIIw",
+      "address": "addis ababa ethioia",
+      "description": "we all awell",
+      "id": 3
+    },
+    {
+      "title": "this is title ",
+      "image": "https://i.picsum.photos/id/437/200/300.jpg?hmac=qjAKcFjQXvVBX_di7_9jMlPlgfQZUK2AV1IQ6W1eIIw",
+      "address": "addis ababa ethioia",
+      "description": "we all awell",
+      "id": 4
+    },
+    {
+      "title": "dfklsd",
+      "image": "https://i.picsum.photos/id/437/200/300.jpg?hmac=qjAKcFjQXvVBX_di7_9jMlPlgfQZUK2AV1IQ6W1eIIw",
+      "address": "sdf",
+      "description": "sdf",
+      "id": 5
+    }
+  ]
+}
